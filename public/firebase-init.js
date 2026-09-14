@@ -4,7 +4,7 @@ import { getDatabase } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-
 const firebaseConfig = {
   apiKey: "AIzaSyBbgy76ThxHaKlOhpiLQ6Nw4ekR1b9t3DA",
   authDomain: "lunace-web.firebaseapp.com",
-  databaseURL: "https://s0lace-web-default-rtdb.firebaseio.com",
+  databaseURL: "https://lunace-web-default-rtdb.firebaseio.com",
   projectId: "lunace-web"
 };
 

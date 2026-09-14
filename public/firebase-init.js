@@ -3,9 +3,9 @@ import { getDatabase } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-
 
 const firebaseConfig = {
   apiKey: "AIzaSyBbgy76ThxHaKlOhpiLQ6Nw4ekR1b9t3DA",
-  authDomain: "s0lace-web.firebaseapp.com",
+  authDomain: "lunace-web.firebaseapp.com",
   databaseURL: "https://s0lace-web-default-rtdb.firebaseio.com",
-  projectId: "s0lace-web"
+  projectId: "lunace-web"
 };
 
 export const app =
